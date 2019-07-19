@@ -8,7 +8,11 @@ MainMenuBarArtFrame:SetScale(1.16)
 ActionButton1:ClearAllPoints()
 ActionButton1:SetPoint("cENTER",-233,-2)
 ActionButton1.SetPoint = function() end
- 
+--buttons for edit
+--MultiBarBottomRightButton7:ClearAllPoints()
+--MultiBarBottomRightButton7:SetPoint("cENTER",-650,41)
+--MultiBarBottomRightButton7.SetPoint = function() end
+
 MultiBarBottomRightButton7:ClearAllPoints()
 MultiBarBottomRightButton7:SetPoint("cENTER",-650,41)
 MultiBarBottomRightButton7.SetPoint = function() end
