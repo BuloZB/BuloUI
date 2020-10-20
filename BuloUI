@@ -1,3 +1,6 @@
-## Interface: 80300
-## Title: BuloUI
+## Interface: 90001
+## Title: |cff16C3F2BuloUI|r|
+## Author: Bulo
+## X-Localizations: enUS, enGB, deDE, frFR, zhCN, ruRU, zhTW
+## X-CompatibleLocales: enUS, enGB, deDE, frFR, esES, esMX, zhCN, zhTW, koKR, ruRU
 code.lua
