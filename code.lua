@@ -33,7 +33,7 @@ StanceButton1:SetPoint("cENTER",-6000,0)
 StanceButton1.SetPoint = function() end
  
 --function Movebuff() BuffFrame:ClearAllPoints() BuffFrame:SetScale(1.1) BuffFrame:SetPoint("CENTER",PlayerFrame,"CENTER",950,80) end  hooksecurefunc("UIParent_UpdateTopFramePositions",Movebuff) Movebuff()
- --remove -- if you want activate function for movebuff comand
+ --remove -- if you want activate function for movebuff comand -ak sa da buffy nechat scale 1
 LoadAddOn("Blizzard_ArenaUI")
 ArenaEnemyFrame1:ClearAllPoints()
 ArenaEnemyFrame2:ClearAllPoints()
